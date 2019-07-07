@@ -165,28 +165,6 @@
     "Desc": "Soda Popz, original Sour Patch Kids in four all new flavours: Coco Cola, Sprite, Cherry Cola and Rootbeer."
   },
   {
-    "Id": "Gq95flQsL42n64q",
-    "Brand": "Maynards",
-    "Product": "Maynards Sour Patch Kids Soda Popz",
-    "Graphic": "sodapopz.jpg",
-    "Cost": 1.20,
-    "MSRP": 2.50,
-    "Qty": 500,
-    "Back": 50,
-    "Desc": "Soda Popz, original Sour Patch Kids in four all new flavours: Coco Cola, Sprite, Cherry Cola and Rootbeer."
-  },
-  {
-    "Id": "Gq95flQsL42n64q",
-    "Brand": "Maynards",
-    "Product": "Maynards Sour Patch Kids Soda Popz",
-    "Graphic": "sodapopz.jpg",
-    "Cost": 1.20,
-    "MSRP": 2.50,
-    "Qty": 500,
-    "Back": 50,
-    "Desc": "Soda Popz, original Sour Patch Kids in four all new flavours: Coco Cola, Sprite, Cherry Cola and Rootbeer."
-  },
-  {
     "Id": "T9999Q9sL42n64q",
     "Brand": "Nestle",
     "Product": "Kit Kat",
@@ -195,7 +173,7 @@
     "MSRP": 2.90,
     "Qty": 800,
     "Back": 55,
-    "Desc": "Kit Kat is a chocolate-covered wafer bar confection created by Rowntree's of York, United Kingdom, and is now produced globally by Nestlé."
+    "Desc": "Kit Kat is a chocolate-covered wafer bar confection created by Rowntree's of York, United Kingdom, and is now produced globally by NestlÃ©."
   },
   {
     "Id": "T5555Q9sL42n64q",
@@ -305,7 +283,7 @@
     "MSRP": 2.50,
     "Qty": 450,
     "Back": 20,
-    "Desc": "Big Turk consists of pink Turkish Delight coated in Milk Chocolate. Big Turk are Turkish Delight Candy Bar that are manufactured by Nestlé Canada. Big Turk is one of the more unique candy bars on the market. It stands out by having just a very “thin” chocolate coating over pink Turkish Delight Chocolate."
+    "Desc": "Big Turk consists of pink Turkish Delight coated in Milk Chocolate. Big Turk are Turkish Delight Candy Bar that are manufactured by NestlÃ© Canada. Big Turk is one of the more unique candy bars on the market. It stands out by having just a very Â“thinÂ” chocolate coating over pink Turkish Delight Chocolate."
   },
   {
     "Id": "T7744Q9sLz2n74q",
@@ -470,7 +448,7 @@
     "MSRP": 2.75,
     "Qty": 800,
     "Back": 60,
-    "Desc": "Planning a camping trip? Pass a bag of fat free and gluten free REALMALLOW candies around the campfire – they are sure to be a hit! "
+    "Desc": "Planning a camping trip? Pass a bag of fat free and gluten free REALMALLOW candies around the campfire Â– they are sure to be a hit! "
   },
   {
     "Id": "Q22zgS8sTt3ss90",
@@ -514,6 +492,6 @@
     "MSRP": 3.15,
     "Qty": 400,
     "Back": 20,
-    "Desc": "‘Tis the season to be merry! Spread joy throughout your home with our sweet holiday candies and mints."
+    "Desc": "Â‘Tis the season to be merry! Spread joy throughout your home with our sweet holiday candies and mints."
   }
 ]
